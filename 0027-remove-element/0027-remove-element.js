@@ -5,7 +5,6 @@
  */
 var removeElement = function(nums, val) {
     let count;
-    //nums.sort((a,b)=>a-b);
     for(let j=0;j<nums.length;j++){
         count =0;
     for(let i=0;i<nums.length;i++ ){
